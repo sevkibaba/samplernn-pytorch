@@ -15,7 +15,7 @@ class Trainer(object):
         self.dataset = dataset
         self.cuda = cuda
         self.iterations = 0
-        self.epochs = 0
+        self.epochs = 1
         self.stats = {}
         self.plugin_queues = {
             'iteration': [],
