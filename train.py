@@ -44,7 +44,7 @@ default_params = {
     'keep_old_checkpoints': False,
     'datasets_path': 'datasets',
     'results_path': 'results',
-    'epoch_limit': 100,
+    'epoch_limit': 10,
     'resume': True,
     'sample_rate': 16000,
     'n_samples': 1,
