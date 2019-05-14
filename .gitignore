@@ -94,4 +94,9 @@ pytorch_env/
 *.swp
 *.swo
 .idea/
+.DS_Store
+datasets/.DS_Store
+datasets/piano/
+results/
+
 
